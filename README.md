@@ -33,4 +33,4 @@
 
 * No overlap(graph or axis) : 그래프 및 축이 겹치지 않게 해야 시각적으로 확인하기 용이함
 * Simple vis & No complex : 복잡하게 표현하는 것보다 그래프는 간단하게 나타내는 것이 좋음 / 하나의 그래프에 포함되어 있는 그래프들을 3개의 형태(stacked bar chart, dot graph, line graph)로 각각 분리하여 나타냄
-* No aligned(Visually eye-pleasing, Not complicate, Simple is best) : 그래프는 시각적으로 보기 편해야하며, 복잡하지 않고 간단하게 나타내야 
+* No aligned(Visually eye-pleasing, Not complicate, Simple is best) : 그래프는 시각적으로 보기 편해야하며, 복잡하지 않고 간단하게 나타내야함
